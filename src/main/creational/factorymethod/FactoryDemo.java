@@ -1,4 +1,4 @@
-package main.creational.factory_method;
+package main.creational.factorymethod;
 
 /**
  * Define an interface for creating an object,

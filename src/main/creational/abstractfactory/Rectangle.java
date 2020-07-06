@@ -1,4 +1,4 @@
-package main.creational.abstract_factory;
+package main.creational.abstractfactory;
 
 public class Rectangle implements Shape {
     @Override

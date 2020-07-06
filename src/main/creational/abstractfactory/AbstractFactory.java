@@ -1,4 +1,4 @@
-package main.creational.abstract_factory;
+package main.creational.abstractfactory;
 
 public abstract class AbstractFactory {
     abstract Shape getShape(String shapeType);

@@ -1,4 +1,4 @@
-package main.creational.abstract_factory;
+package main.creational.abstractfactory;
 
 /**
  * The Abstract Factory defines a Factory Method per product.

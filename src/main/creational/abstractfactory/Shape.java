@@ -1,4 +1,4 @@
-package main.creational.abstract_factory;
+package main.creational.abstractfactory;
 
 public interface Shape {
     void draw();

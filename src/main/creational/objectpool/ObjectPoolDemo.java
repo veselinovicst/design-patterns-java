@@ -1,4 +1,4 @@
-package main.creational.object_pool;
+package main.creational.objectpool;
 
 import java.sql.Connection;
 
