@@ -1,5 +1,10 @@
 package main.creational.factory_method;
 
+/**
+ * Define an interface for creating an object,
+ * but let subclasses decide which class to instantiate.
+ * Factory Method lets a class defer instantiation to subclasses.
+ */
 public class FactoryDemo {
 
     public static void main(String[] args) {
