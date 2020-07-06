@@ -1,5 +1,10 @@
 package main.creational.abstract_factory;
 
+/**
+ * The Abstract Factory defines a Factory Method per product.
+ * Each Factory Method encapsulates the new operator and the concrete, platform-specific, product classes.
+ * Each "platform" is then modeled with a Factory derived class.
+ */
 public class AbstractFactoryDemo {
 
     public static void main(String[] args) {
